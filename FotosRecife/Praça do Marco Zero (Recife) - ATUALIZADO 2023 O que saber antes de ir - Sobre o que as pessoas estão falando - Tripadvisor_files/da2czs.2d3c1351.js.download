@@ -1,1 +1,0 @@
-(this.$WP=this.$WP||[]).push(["da2czs",(r,s)=>{"use strict";var e,t,u,h=r=>u(t,{children:u(e,{children:!1})});return[()=>{r("default",h)},[r=>e=r.Suspense,r=>t=r.ErrorBoundary,r=>u=r.jsx]]},["1o4yt4","nbuwox","121h32"]]);
